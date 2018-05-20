@@ -1,0 +1,1 @@
+Set your token in the config.json
